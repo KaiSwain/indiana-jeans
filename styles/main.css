@@ -1,0 +1,9 @@
+.submissions {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
